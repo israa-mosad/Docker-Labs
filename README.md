@@ -18,7 +18,8 @@ The Docker Labs for Beginners repo is a collection of hands-on labs that will he
 
 7- To get started, simply clone the repo and follow the instructions in the README file.
 
-## Here are some of the benefits of learning Docker:
+## Here are some of the benefits of learning Docker: ✨✨
+
 
 - Docker can help you to build and deploy applications more quickly and easily.
 
@@ -26,4 +27,4 @@ The Docker Labs for Beginners repo is a collection of hands-on labs that will he
 
 - Docker can help you to reduce your costs by making it easier to move applications between different environments.
 
-### If you are interested in learning more about Docker, I encourage you to check out the Docker Labs for Beginners repo.
+### If you are interested in learning more about Docker, I encourage you to check out the Docker Labs for Beginners repo. ✨
